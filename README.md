@@ -4,8 +4,6 @@ Building and deploying a MySQL data warehouse with ETL pipelines, data modeling,
 
 # 🚀 Project Requirements
 
-## 🛠️ Data Engineering — Warehouse Development
-
 ### 🎯 Objective
 Build a modern MySQL-based data warehouse that consolidates sales data to enable reporting and data-driven decision-making.
 
