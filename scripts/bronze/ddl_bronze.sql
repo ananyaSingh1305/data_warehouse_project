@@ -70,5 +70,3 @@ CREATE TABLE bronze_erp_px_cat_g1v2(
     SUBCAT VARCHAR(50),
     MAINTENANCE VARCHAR(50)
 );
-
-/usr/local/mysql-8.0.36-macos14-x86_64/bin
